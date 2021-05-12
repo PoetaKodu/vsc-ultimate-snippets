@@ -23,22 +23,22 @@ Done, optionally run action **Reload snippets**, or reopen editor.
 ## Snippet list:
 - `@vec` -> `std::vector`
 - **TODO**: more helper snippets
-- `@fif` -> `std::find_if` (lambda)
-- `@ffif` -> `std::find_if` (function)
-- `@find` -> `std::find` (value)
-- `@anyof` -> `std::any_of` (lambda)
-- `@fanyof` -> `std::any_of` (function)
-- `@allof` -> `std::all_of` (lambda)
-- `@fallof` -> `std::all_of` (function)
-- `@noneof` -> `std::none_of` (lambda)
-- `@fnoneof` -> `std::none_of` (function)
-- `@each` -> `std::for_each` (lambda)
-- `@feach` -> `std::for_each` (function)
-- `@neach` -> `std::for_each_n` (lambda)
-- `@fneach` -> `std::for_each_n` (function)
-- `@cif` -> `std::count_if` (lambda)
-- `@fcif` -> `std::count_if` (function)
-- `@count` -> `std::count` (value)
+- `@fif` -> [`std::find_if`](`#stdfind_if-lambda`) (lambda)
+- `@ffif` -> [`std::find_if`](`#stdfind_if-function`) (function)
+- `@find` -> [`std::find`](`#stdfind`) (value)
+- `@anyof` -> [`std::any_of`](`#stdany_of-lambda`) (lambda)
+- `@fanyof` -> [`std::any_of`](`#stdany_of-function`) (function)
+- `@allof` -> [`std::all_of`](`#stdall_of-lambda`) (lambda)
+- `@fallof` -> [`std::all_of`](`#stdall_of-function`) (function)
+- `@noneof` -> [`std::none_of`](`#stdnone_of-lambda`) (lambda)
+- `@fnoneof` -> [`std::none_of`](`#stdnone_of-function`) (function)
+- `@each` -> [`std::for_each`](`#stdfor_each-lambda`) (lambda)
+- `@feach` -> [`std::for_each`](`#stdfor_each-function`) (function)
+- `@neach` -> [`std::for_each_n`](`#stdfor_each_n-lambda`) (lambda)
+- `@fneach` -> [`std::for_each_n`](`#stdfor_each_n-function`) (function)
+- `@cif` -> [`std::count_if`](`#stdcount_if-lambda`) (lambda)
+- `@fcif` -> [`std::count_if`](`#stdcount_if-function`) (function)
+- `@count` -> [`std::count`](`#stdcount-value`) (value)
 - `@=>` -> Lambda returning element
 - **TODO**: entire algorithm library
 
