@@ -13,7 +13,7 @@ An ultimate collection of C++ snippets for [VS Code](https://code.visualstudio.c
 ## ⬇ Installation
 
 1. Install [this VS Code extension](https://marketplace.visualstudio.com/items?itemName=draivin.hsnips)
-2. Put [cpp.hsnips](cpp.hsnips) file into one of the following folders:
+2. Put [cpp.hsnips](snippets/cpp.hsnips) file into one of the following folders:
    - Windows: `%APPDATA%\Code\User\hsnips\`
    - Linux: `$HOME/.config/Code/User/hsnips/`
    - Mac: `$HOME/Library/Application Support/Code/User/hsnips/`
@@ -44,7 +44,7 @@ Done, optionally run action **Reload snippets**, or reopen editor.
 
 ## ⛑ Contributing
 
-Feel free to put pull request, modifying [cpp.hsnips](cpp.hsnips)
+Feel free to put pull request, modifying [cpp.hsnips](snippets/cpp.hsnips)
 We all will benefit from this.
 
 ## 🖼 Presentation:
