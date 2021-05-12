@@ -3,14 +3,14 @@
 An ultimate collection of C++ snippets for [VS Code](https://code.visualstudio.com).
 
 [**Installation**](#Installation) | [**Snippet list**](#Snippet-list) | [**Presentation**](#Presentation) 
-## Overview
+## 😄 Overview
 
 ![Snippet - Vector](img/snip_vec.gif)
 
 
 ... and many, many more.
 
-## Installation
+## ⬇ Installation
 
 1. Install [this VS Code extension](https://marketplace.visualstudio.com/items?itemName=draivin.hsnips)
 2. Put [cpp.hsnips](cpp.hsnips) file into one of the following folders:
@@ -42,7 +42,12 @@ Done, optionally run action **Reload snippets**, or reopen editor.
 - `@=>` -> Lambda returning element
 - **TODO**: entire algorithm library
 
-## Presentation:
+## ⛑ Contributing
+
+Feel free to put pull request, modifying [cpp.hsnips](cpp.hsnips)
+We all will benefit from this.
+
+## 🖼 Presentation:
 
 
 ### Vector definition
@@ -54,7 +59,7 @@ varName@vec
 ![Snippet - Vector](img/snip_vec.gif)
 
 
-### Standard `algorithm`
+### Standard `<algorithm>`
 
 
 #### `std::find_if` (lambda)
