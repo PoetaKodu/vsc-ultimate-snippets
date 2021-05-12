@@ -2,7 +2,7 @@
 
 An ultimate collection of C++ snippets for [VS Code](https://code.visualstudio.com).
 
-[**Installation**](#⬇Installation) | [**Snippet list**](#Snippet-list) | [**Contributing**](#⛑Contributing) | [**Presentation**](#🖼Presentation) 
+[**Installation**](#-installation) | [**Snippet list**](#snippet-list) | [**Contributing**](#-contributing) | [**Presentation**](#-presentation) 
 ## 😄 Overview
 
 ![Snippet - Vector](img/snip_vec.gif)
